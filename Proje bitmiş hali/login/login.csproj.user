@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>ftp://Proje1Yayimlama.somee.com/www.Proje1Yayimlama.somee.com/|ftp://Gorprogpoje.somee.com/www.Gorprogpoje.somee.com/|ftp://InsanKaynaklarii.somee.com/www.InsanKaynaklarii.somee.com/|publish\</PublishUrlHistory>
+    <InstallUrlHistory>http://www.Proje1Yayimlama.somee.com/|http://www.Gorprogpoje.somee.com/|http://www.InsanKaynaklarii.somee.com/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>tr-TR</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

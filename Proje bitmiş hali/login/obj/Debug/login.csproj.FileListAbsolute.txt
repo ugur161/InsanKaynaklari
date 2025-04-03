@@ -1,0 +1,57 @@
+C:\Users\Mert\Desktop\Proje\login\login\bin\Debug\login.exe.config
+C:\Users\Mert\Desktop\Proje\login\login\bin\Debug\login.exe
+C:\Users\Mert\Desktop\Proje\login\login\bin\Debug\login.pdb
+C:\Users\Mert\Desktop\Proje\login\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\Proje\login\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\Mert\Desktop\Proje\login\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\Proje\login\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\Proje\login\login\obj\Debug\login.exe
+C:\Users\Mert\Desktop\Proje\login\login\obj\Debug\login.pdb
+C:\Users\Mert\Desktop\Proje\login\login\obj\Debug\login.login.resources
+C:\Users\Mert\Desktop\Proje\login\login\obj\Debug\login.anaMenu.resources
+C:\Users\Mert\Desktop\Proje\login\login\obj\Debug\PerformansDegerlendirme.CalisanBilgisi.resources
+C:\Users\Mert\Desktop\Proje\login\login\obj\Debug\calisanlar.Calisanlar.resources
+C:\Users\Mert\Desktop\Proje\login\login\obj\Debug\departmanlar.Departmanlar.resources
+C:\Users\Mert\Desktop\Proje\login\login\obj\Debug\Maasİslemleri.maasIslemleri.resources
+C:\Users\Mert\Desktop\Proje\login\login\obj\Debug\izin_ekranı.IzinYonetim.resources
+C:\Users\Mert\Desktop\Proje\login\login\obj\Debug\PerformansDegerlendirme.PerformansDegerlendirmeOlcegi.resources
+C:\Users\Mert\Desktop\Proje\login\login\obj\Debug\PrimEkranı.primEkrani.resources
+C:\Users\Mert\Desktop\Proje\login\login\obj\Debug\İseAlim.iseAlim.resources
+C:\Users\Mert\Desktop\Proje\login\login\obj\Debug\Proje.Pozisyon.resources
+C:\Users\UĞURCAN\OneDrive\Masaüstü\login\login\bin\Debug\login.exe.config
+C:\Users\UĞURCAN\OneDrive\Masaüstü\login\login\bin\Debug\login.exe
+C:\Users\UĞURCAN\OneDrive\Masaüstü\login\login\bin\Debug\login.pdb
+C:\Users\UĞURCAN\OneDrive\Masaüstü\login\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\Users\UĞURCAN\OneDrive\Masaüstü\login\login\obj\Debug\login.anaMenu.resources
+C:\Users\UĞURCAN\OneDrive\Masaüstü\login\login\obj\Debug\PerformansDegerlendirme.CalisanBilgisi.resources
+C:\Users\UĞURCAN\OneDrive\Masaüstü\login\login\obj\Debug\calisanlar.Calisanlar.resources
+C:\Users\UĞURCAN\OneDrive\Masaüstü\login\login\obj\Debug\departmanlar.Departmanlar.resources
+C:\Users\UĞURCAN\OneDrive\Masaüstü\login\login\obj\Debug\izin_ekranı.IzinYonetim.resources
+C:\Users\UĞURCAN\OneDrive\Masaüstü\login\login\obj\Debug\Proje.Pozisyon.resources
+C:\Users\UĞURCAN\OneDrive\Masaüstü\login\login\obj\Debug\PrimEkranı.primEkrani.resources
+C:\Users\UĞURCAN\OneDrive\Masaüstü\login\login\obj\Debug\Maasİslemleri.maasIslemleri.resources
+C:\Users\UĞURCAN\OneDrive\Masaüstü\login\login\obj\Debug\login.login.resources
+C:\Users\UĞURCAN\OneDrive\Masaüstü\login\login\obj\Debug\PerformansDegerlendirme.PerformansDegerlendirmeOlcegi.resources
+C:\Users\UĞURCAN\OneDrive\Masaüstü\login\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\UĞURCAN\OneDrive\Masaüstü\login\login\obj\Debug\İseAlim.iseAlim.resources
+C:\Users\UĞURCAN\OneDrive\Masaüstü\login\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\UĞURCAN\OneDrive\Masaüstü\login\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\UĞURCAN\OneDrive\Masaüstü\login\login\obj\Debug\login.exe
+C:\Users\UĞURCAN\OneDrive\Masaüstü\login\login\obj\Debug\login.pdb
+C:\Users\UĞURCAN\OneDrive\Masaüstü\Proje bitmiş hali\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\Users\UĞURCAN\OneDrive\Masaüstü\Proje bitmiş hali\login\obj\Debug\login.anaMenu.resources
+C:\Users\UĞURCAN\OneDrive\Masaüstü\Proje bitmiş hali\login\obj\Debug\calisanlar.Calisanlar.resources
+C:\Users\UĞURCAN\OneDrive\Masaüstü\Proje bitmiş hali\login\obj\Debug\departmanlar.Departmanlar.resources
+C:\Users\UĞURCAN\OneDrive\Masaüstü\Proje bitmiş hali\login\obj\Debug\login.login.resources
+C:\Users\UĞURCAN\OneDrive\Masaüstü\Proje bitmiş hali\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\UĞURCAN\OneDrive\Masaüstü\Proje bitmiş hali\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\UĞURCAN\OneDrive\Masaüstü\Proje bitmiş hali\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\UĞURCAN\OneDrive\Masaüstü\Proje bitmiş hali\login\obj\Debug\login.exe
+C:\Users\UĞURCAN\OneDrive\Masaüstü\Proje bitmiş hali\login\obj\Debug\login.pdb
+C:\Users\UĞURCAN\OneDrive\Masaüstü\Proje bitmiş hali\login\bin\Debug\login.exe.config
+C:\Users\UĞURCAN\OneDrive\Masaüstü\Proje bitmiş hali\login\bin\Debug\login.exe
+C:\Users\UĞURCAN\OneDrive\Masaüstü\Proje bitmiş hali\login\bin\Debug\login.pdb
+C:\Users\UĞURCAN\OneDrive\Masaüstü\Proje bitmiş hali\login\bin\Debug\login.exe.manifest
+C:\Users\UĞURCAN\OneDrive\Masaüstü\Proje bitmiş hali\login\bin\Debug\login.application
+C:\Users\UĞURCAN\OneDrive\Masaüstü\Proje bitmiş hali\login\obj\Debug\login.exe.manifest
+C:\Users\UĞURCAN\OneDrive\Masaüstü\Proje bitmiş hali\login\obj\Debug\login.application
